@@ -27,4 +27,4 @@ jobs:
     - name: Run script (or tests)
       run: |
         echo "Running demo script..."
-        python your_script.py || echo "No script yet"
+        print("hello world").py || echo "No script yet"
